@@ -1,0 +1,3788 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&gt;&gt;label22.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;radioB_Move_Switch.Name" xml:space="preserve">
+    <value>radioB_Move_Switch</value>
+  </data>
+  <data name="&gt;&gt;checkBox_Trap.Name" xml:space="preserve">
+    <value>checkBox_Trap</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="changeSides.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="listOfFigures.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label13.Name" xml:space="preserve">
+    <value>label13</value>
+  </data>
+  <data name="&gt;&gt;label32.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="label7.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;CreateSquare.Parent" xml:space="preserve">
+    <value>Квадрат</value>
+  </data>
+  <data name="&gt;&gt;createRingRandomly.Parent" xml:space="preserve">
+    <value>Ring</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Circle.Name" xml:space="preserve">
+    <value>textBoxY_Circle</value>
+  </data>
+  <data name="&gt;&gt;Sbin.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBar1.Parent" xml:space="preserve">
+    <value>Rhomb</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="textBox_horRad.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 169</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="trackBarY_Ring.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBarY.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Circle.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;checkAll.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;textBox_ChangeHeight.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="trackBarY_Ellipse.Location" type="System.Drawing.Point, System.Drawing">
+    <value>59, 107</value>
+  </data>
+  <data name="&gt;&gt;textBox_Change.Parent" xml:space="preserve">
+    <value>Change_Rect</value>
+  </data>
+  <data name="radioB_Trapez_Delete.Location" type="System.Drawing.Point, System.Drawing">
+    <value>161, 86</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Rect_Delete.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBoxY_Rect.Location" type="System.Drawing.Point, System.Drawing">
+    <value>246, 104</value>
+  </data>
+  <data name="label29.TabIndex" type="System.Int32, mscorlib">
+    <value>46</value>
+  </data>
+  <data name="groupBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="label31.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 215</value>
+  </data>
+  <data name="&gt;&gt;button5.Name" xml:space="preserve">
+    <value>button5</value>
+  </data>
+  <data name="label16.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Circle.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="RadioB_Circle_Delete.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;radioB_Ellipse_Delete.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox_SwitchRad.Name" xml:space="preserve">
+    <value>textBox_SwitchRad</value>
+  </data>
+  <data name="&gt;&gt;ChooseArray.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;label27.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBar4.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;MoveFigs.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Trapez.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Switch.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="RadioB_Square_Delete.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 24</value>
+  </data>
+  <data name="label32.TabIndex" type="System.Int32, mscorlib">
+    <value>63</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Rect.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;textBox3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label22.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 212</value>
+  </data>
+  <data name="trackBarY_Rect.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="AddOne.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 600</value>
+  </data>
+  <data name="&gt;&gt;MoveItem.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label9.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="trackBarY_Switch.Location" type="System.Drawing.Point, System.Drawing">
+    <value>58, 104</value>
+  </data>
+  <data name="&gt;&gt;textBox_ChangeWidth.Name" xml:space="preserve">
+    <value>textBox_ChangeWidth</value>
+  </data>
+  <data name="label5.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Trapez.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Rect.Name" xml:space="preserve">
+    <value>trackBarX_Rect</value>
+  </data>
+  <data name="textBoxY_Rect.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 27</value>
+  </data>
+  <data name="textBox5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 215</value>
+  </data>
+  <data name="&gt;&gt;CreateRectRandomly.Parent" xml:space="preserve">
+    <value>Прямоугольник</value>
+  </data>
+  <data name="label19.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="Create20.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;Квадрат.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Move.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="trackBar3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>59, 107</value>
+  </data>
+  <data name="&gt;&gt;label35.Parent" xml:space="preserve">
+    <value>Trapezoid</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Square.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;checkBox_CIrcle.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;AddOne.Name" xml:space="preserve">
+    <value>AddOne</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Rect.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;Ring.Parent" xml:space="preserve">
+    <value>Create</value>
+  </data>
+  <data name="label14.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Rect.Parent" xml:space="preserve">
+    <value>Прямоугольник</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Move.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CreateRectRandomly.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="trackBar4.TabIndex" type="System.Int32, mscorlib">
+    <value>56</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1156, 22</value>
+  </data>
+  <data name="label25.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 43</value>
+  </data>
+  <data name="&gt;&gt;Sbin.Name" xml:space="preserve">
+    <value>Sbin</value>
+  </data>
+  <data name="label30.TabIndex" type="System.Int32, mscorlib">
+    <value>46</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Square_Delete.Name" xml:space="preserve">
+    <value>RadioB_Square_Delete</value>
+  </data>
+  <data name="&gt;&gt;ChangeRect.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="textBoxX_Circle.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="textBox_RhombsHeight.TabIndex" type="System.Int32, mscorlib">
+    <value>54</value>
+  </data>
+  <data name="trackBarY_Switch.TabIndex" type="System.Int32, mscorlib">
+    <value>47</value>
+  </data>
+  <data name="&gt;&gt;textBox_EllipseToSpin.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBox7.TabIndex" type="System.Int32, mscorlib">
+    <value>60</value>
+  </data>
+  <data name="&gt;&gt;createTrapez.Parent" xml:space="preserve">
+    <value>Trapezoid</value>
+  </data>
+  <data name="&gt;&gt;button3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>657, 17</value>
+  </data>
+  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;listOfFigures.Name" xml:space="preserve">
+    <value>listOfFigures</value>
+  </data>
+  <data name="textBox3.TabIndex" type="System.Int32, mscorlib">
+    <value>36</value>
+  </data>
+  <data name="&gt;&gt;textBox_RhombsWidth.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Rect.Parent" xml:space="preserve">
+    <value>Прямоугольник</value>
+  </data>
+  <data name="&gt;&gt;button7.Name" xml:space="preserve">
+    <value>button7</value>
+  </data>
+  <data name="&gt;&gt;tabControl1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Ellipse.Name" xml:space="preserve">
+    <value>trackBarX_Ellipse</value>
+  </data>
+  <data name="&gt;&gt;textBox_DeleteItem.Name" xml:space="preserve">
+    <value>textBox_DeleteItem</value>
+  </data>
+  <data name="button4.TabIndex" type="System.Int32, mscorlib">
+    <value>52</value>
+  </data>
+  <data name="CreateSwitchRandomly.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 421</value>
+  </data>
+  <data name="&gt;&gt;radioB_Rhomb_Move.Parent" xml:space="preserve">
+    <value>groupOfRBs</value>
+  </data>
+  <data name="checkBox_CIrcle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>44, 43</value>
+  </data>
+  <data name="ChangeRect.Location" type="System.Drawing.Point, System.Drawing">
+    <value>803, 54</value>
+  </data>
+  <data name="&gt;&gt;radioB_Move_Ring.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Parent" xml:space="preserve">
+    <value>Rhomb</value>
+  </data>
+  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;textBox_RhombsWidth.Parent" xml:space="preserve">
+    <value>Rhomb</value>
+  </data>
+  <data name="&gt;&gt;textBox_RhombsWidth.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="label17.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="trackBar1.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="&gt;&gt;CreateSwitch.Name" xml:space="preserve">
+    <value>CreateSwitch</value>
+  </data>
+  <data name="&gt;&gt;textBox4.Name" xml:space="preserve">
+    <value>textBox4</value>
+  </data>
+  <data name="canvas.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 58</value>
+  </data>
+  <data name="&gt;&gt;label28.Name" xml:space="preserve">
+    <value>label28</value>
+  </data>
+  <data name="label14.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="RadioB_Circle_Move.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 24</value>
+  </data>
+  <data name="&gt;&gt;textBox_TrapezHeight.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;changeSides.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label19.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="ChangeRect.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="label32.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 169</value>
+  </data>
+  <data name="&gt;&gt;textBox_RhombsHeight.Name" xml:space="preserve">
+    <value>textBox_RhombsHeight</value>
+  </data>
+  <data name="tabControl1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1155, 38</value>
+  </data>
+  <data name="&gt;&gt;AddOne.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;textBox_UpLen.Parent" xml:space="preserve">
+    <value>Trapezoid</value>
+  </data>
+  <data name="textBoxY_Move.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.Name" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Switch.Name" xml:space="preserve">
+    <value>textBoxX_Switch</value>
+  </data>
+  <data name="textBoxY.Location" type="System.Drawing.Point, System.Drawing">
+    <value>242, 127</value>
+  </data>
+  <data name="moveInNewBase.Location" type="System.Drawing.Point, System.Drawing">
+    <value>288, 86</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;Rhomb.Name" xml:space="preserve">
+    <value>Rhomb</value>
+  </data>
+  <data name="label23.TabIndex" type="System.Int32, mscorlib">
+    <value>39</value>
+  </data>
+  <data name="&gt;&gt;radioB_Trapez_Delete.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label3.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;label24.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="listOfFigures.Location" type="System.Drawing.Point, System.Drawing">
+    <value>63, 17</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="&gt;&gt;textBox6.Parent" xml:space="preserve">
+    <value>Trapezoid</value>
+  </data>
+  <data name="Create.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 100</value>
+  </data>
+  <data name="&gt;&gt;label19.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;panel3.Name" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;textBox_Change.Name" xml:space="preserve">
+    <value>textBox_Change</value>
+  </data>
+  <data name="textBoxY_Ring.Location" type="System.Drawing.Point, System.Drawing">
+    <value>246, 104</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Ring.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CreateRectRandomly.Name" xml:space="preserve">
+    <value>CreateRectRandomly</value>
+  </data>
+  <data name="&gt;&gt;label21.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;createRhomb.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CreateSwitchRandomly.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Ellipse.Parent" xml:space="preserve">
+    <value>Ellipse</value>
+  </data>
+  <data name="changeSides.Location" type="System.Drawing.Point, System.Drawing">
+    <value>158, 86</value>
+  </data>
+  <data name="&gt;&gt;createList.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="trackBarX_Ring.Location" type="System.Drawing.Point, System.Drawing">
+    <value>58, 41</value>
+  </data>
+  <data name="&gt;&gt;label20.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Ellipse.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;radioB_Ellipse_Delete.Name" xml:space="preserve">
+    <value>radioB_Ellipse_Delete</value>
+  </data>
+  <data name="&gt;&gt;checkBox_Rect.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Circle_Delete.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="textBox_Height.Location" type="System.Drawing.Point, System.Drawing">
+    <value>159, 212</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Ellipse.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="label12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 43</value>
+  </data>
+  <data name="createRing.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 274</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="trackBarX_Circle.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBox4.Parent" xml:space="preserve">
+    <value>Rhomb</value>
+  </data>
+  <data name="&gt;&gt;checkAll.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Square.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;textBox_SwitchOutRad.Name" xml:space="preserve">
+    <value>textBox_SwitchOutRad</value>
+  </data>
+  <data name="&gt;&gt;label7.Name" xml:space="preserve">
+    <value>label7</value>
+  </data>
+  <data name="&gt;&gt;textBox_Height.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label33.Parent" xml:space="preserve">
+    <value>Trapezoid</value>
+  </data>
+  <data name="textBoxX_Circle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 27</value>
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBox_Radius.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="textBox_ChangeWidth.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="&gt;&gt;label10.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 17</value>
+  </data>
+  <data name="&gt;&gt;checkBox_Trap.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="Rhomb.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="&gt;&gt;textBox8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label21.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="trackBarY_Trapez.Location" type="System.Drawing.Point, System.Drawing">
+    <value>59, 107</value>
+  </data>
+  <data name="&gt;&gt;label19.Name" xml:space="preserve">
+    <value>label19</value>
+  </data>
+  <data name="&gt;&gt;checkBox_Rect.Name" xml:space="preserve">
+    <value>checkBox_Rect</value>
+  </data>
+  <data name="&gt;&gt;textBox_RhombsHeight.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="textBox_ChangeHeight.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="&gt;&gt;Rhomb.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Square_Delete.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Circle.Name" xml:space="preserve">
+    <value>trackBarY_Circle</value>
+  </data>
+  <data name="&gt;&gt;groupOfRBs.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBoxY_Ellipse.TabIndex" type="System.Int32, mscorlib">
+    <value>36</value>
+  </data>
+  <data name="&gt;&gt;label18.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioB_Move_Ring.Parent" xml:space="preserve">
+    <value>groupOfRBs</value>
+  </data>
+  <data name="&gt;&gt;Ring.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;checkBox_Rect.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label23.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 16</value>
+  </data>
+  <data name="&gt;&gt;button6.Name" xml:space="preserve">
+    <value>button6</value>
+  </data>
+  <data name="createRhombRandomly.TabIndex" type="System.Int32, mscorlib">
+    <value>53</value>
+  </data>
+  <data name="textBox3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>245, 90</value>
+  </data>
+  <data name="&gt;&gt;createRingRandomly.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label14.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;checkBox_Square.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Trapez.Name" xml:space="preserve">
+    <value>textBoxX_Trapez</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;radioB_Trapez_Move.Parent" xml:space="preserve">
+    <value>groupOfRBs</value>
+  </data>
+  <data name="button3.TabIndex" type="System.Int32, mscorlib">
+    <value>53</value>
+  </data>
+  <data name="RadioB_Circle_Delete.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 24</value>
+  </data>
+  <data name="&gt;&gt;MoveFigs.Name" xml:space="preserve">
+    <value>MoveFigs</value>
+  </data>
+  <data name="RadioB_Rect_Move.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;Trapezoid.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="textBox_ChangeWidth.Location" type="System.Drawing.Point, System.Drawing">
+    <value>540, 64</value>
+  </data>
+  <data name="&gt;&gt;label35.Name" xml:space="preserve">
+    <value>label35</value>
+  </data>
+  <data name="&gt;&gt;checkBox_Rhomb.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;eraseFigs.Name" xml:space="preserve">
+    <value>eraseFigs</value>
+  </data>
+  <data name="label20.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="radioB_Trapez_Delete.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;button5.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;label29.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CreateSwitchRandomly.Parent" xml:space="preserve">
+    <value>Switch</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="checkBox_Ellipse.Location" type="System.Drawing.Point, System.Drawing">
+    <value>213, 43</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Switch.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox_SwitchInRad.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RadioB_Circle_Delete.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 26</value>
+  </data>
+  <data name="trackBar3.TabIndex" type="System.Int32, mscorlib">
+    <value>59</value>
+  </data>
+  <data name="label9.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="label15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>657, 102</value>
+  </data>
+  <data name="textBoxX_Rect.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="label4.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="groupOfRBs.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label8.Name" xml:space="preserve">
+    <value>label8</value>
+  </data>
+  <data name="deleteContainer.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 810</value>
+  </data>
+  <data name="&gt;&gt;textBox_DeleteItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>44, 691</value>
+  </data>
+  <data name="&gt;&gt;trackBarX.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="label7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 166</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Square_Move.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox_DeleteItem.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;radioB_Move_Ring.Name" xml:space="preserve">
+    <value>radioB_Move_Ring</value>
+  </data>
+  <data name="textBox_EllipseToSpin.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="&gt;&gt;radioB_Rhomb_Move.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Rhomb.Parent" xml:space="preserve">
+    <value>Rhomb</value>
+  </data>
+  <data name="&gt;&gt;checkBox_Rect.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;label34.Parent" xml:space="preserve">
+    <value>Trapezoid</value>
+  </data>
+  <data name="&gt;&gt;radioB_Trapez_Move.Name" xml:space="preserve">
+    <value>radioB_Trapez_Move</value>
+  </data>
+  <data name="createEllipseRandomly.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 424</value>
+  </data>
+  <data name="&gt;&gt;textBox_SwitchRad.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;textBox_Height.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;radioB_Trapez_Move.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Trapez.Parent" xml:space="preserve">
+    <value>Trapezoid</value>
+  </data>
+  <data name="createTrapez.TabIndex" type="System.Int32, mscorlib">
+    <value>64</value>
+  </data>
+  <data name="&gt;&gt;MoveFigs.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="canvas.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Square.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="textBoxY_Circle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 27</value>
+  </data>
+  <data name="createRing.TabIndex" type="System.Int32, mscorlib">
+    <value>40</value>
+  </data>
+  <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;button6.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="textBox_Change.Location" type="System.Drawing.Point, System.Drawing">
+    <value>286, 72</value>
+  </data>
+  <data name="&gt;&gt;CreateRect.Name" xml:space="preserve">
+    <value>CreateRect</value>
+  </data>
+  <data name="&gt;&gt;textBox_Item_Move.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="textBox_vertRad.TabIndex" type="System.Int32, mscorlib">
+    <value>42</value>
+  </data>
+  <data name="textBox_Width.Location" type="System.Drawing.Point, System.Drawing">
+    <value>158, 166</value>
+  </data>
+  <data name="textBox_inRadius.Location" type="System.Drawing.Point, System.Drawing">
+    <value>170, 166</value>
+  </data>
+  <data name="Sbin.Location" type="System.Drawing.Point, System.Drawing">
+    <value>27, 86</value>
+  </data>
+  <data name="label8.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Circle.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="checkBox_Rect.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;trackBar2.Name" xml:space="preserve">
+    <value>trackBar2</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CreateSquare.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;textBox6.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;textBox_TrapezHeight.Parent" xml:space="preserve">
+    <value>Trapezoid</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Circle_Move.Parent" xml:space="preserve">
+    <value>groupOfRBs</value>
+  </data>
+  <data name="&gt;&gt;radioB_Rhomb_Delete.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="AddOne.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="CreateRect.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 274</value>
+  </data>
+  <data name="&gt;&gt;label12.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox_Width.Parent" xml:space="preserve">
+    <value>Прямоугольник</value>
+  </data>
+  <data name="CreateRect.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Circle_Delete.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;textBox_vertRad.Parent" xml:space="preserve">
+    <value>Ellipse</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Rhomb.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label24.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 104</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Ring.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="&gt;&gt;textBox6.Name" xml:space="preserve">
+    <value>textBox6</value>
+  </data>
+  <data name="&gt;&gt;button3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;deleteList.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;CreateSwitch.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;moveInNewBase.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Switch.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;createTrapezRandomly.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Ring.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="createRhombRandomly.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 424</value>
+  </data>
+  <data name="Ellipse.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="&gt;&gt;radioB_Trapez_Delete.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Square.Name" xml:space="preserve">
+    <value>textBoxX_Square</value>
+  </data>
+  <data name="&gt;&gt;textBoxY.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="trackBarX_Rect.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="label20.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;button7.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;ChooseList.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;turnEllipse90.Name" xml:space="preserve">
+    <value>turnEllipse90</value>
+  </data>
+  <data name="button5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 424</value>
+  </data>
+  <data name="createRhomb.TabIndex" type="System.Int32, mscorlib">
+    <value>52</value>
+  </data>
+  <data name="&gt;&gt;label17.Name" xml:space="preserve">
+    <value>label17</value>
+  </data>
+  <data name="label33.TabIndex" type="System.Int32, mscorlib">
+    <value>61</value>
+  </data>
+  <data name="textBox_UpLen.TabIndex" type="System.Int32, mscorlib">
+    <value>62</value>
+  </data>
+  <data name="&gt;&gt;button5.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;textBox_TrapezHeight.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBoxY_Trapez.TabIndex" type="System.Int32, mscorlib">
+    <value>60</value>
+  </data>
+  <data name="&gt;&gt;Create.Name" xml:space="preserve">
+    <value>Create</value>
+  </data>
+  <data name="&gt;&gt;Ring.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="radioB_Move_Switch.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="textBox_SwitchInRad.TabIndex" type="System.Int32, mscorlib">
+    <value>54</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Square_Move.Name" xml:space="preserve">
+    <value>RadioB_Square_Move</value>
+  </data>
+  <data name="Change_Rect.Size" type="System.Drawing.Size, System.Drawing">
+    <value>192, 67</value>
+  </data>
+  <data name="&gt;&gt;label10.Parent" xml:space="preserve">
+    <value>Прямоугольник</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Ellipse.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioB_Trapez_Delete.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="button6.TabIndex" type="System.Int32, mscorlib">
+    <value>64</value>
+  </data>
+  <data name="label34.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 46</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Rhomb.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="radioB_Delete_Ring.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="CreateRectRandomly.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 421</value>
+  </data>
+  <data name="label12.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="textBox_TrapezHeight.TabIndex" type="System.Int32, mscorlib">
+    <value>68</value>
+  </data>
+  <data name="textBox_EllipseToSpin.Location" type="System.Drawing.Point, System.Drawing">
+    <value>370, 69</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Switch.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="Квадрат.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Switch.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;textBox_horRad.Parent" xml:space="preserve">
+    <value>Ellipse</value>
+  </data>
+  <data name="&gt;&gt;textBox_inRadius.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox_Side.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;textBox_Item_Move.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox_Change.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;label31.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="radioB_Ellipse_Delete.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.Parent" xml:space="preserve">
+    <value>Create</value>
+  </data>
+  <data name="textBoxY_Square.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 27</value>
+  </data>
+  <data name="&gt;&gt;textBox_DownLen.Parent" xml:space="preserve">
+    <value>Trapezoid</value>
+  </data>
+  <data name="trackBarX_Circle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>58, 41</value>
+  </data>
+  <data name="&gt;&gt;label20.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;changeSides.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;textBox_EllipseToSpin.Name" xml:space="preserve">
+    <value>textBox_EllipseToSpin</value>
+  </data>
+  <data name="textBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>38</value>
+  </data>
+  <data name="radioB_Ellipse_Move.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="RadioB_Square_Move.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 56</value>
+  </data>
+  <data name="trackBarX_Ellipse.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Ring.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBoxY_Ring.TabIndex" type="System.Int32, mscorlib">
+    <value>36</value>
+  </data>
+  <data name="&gt;&gt;label18.Parent" xml:space="preserve">
+    <value>Change_Rect</value>
+  </data>
+  <data name="&gt;&gt;button6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Rhomb.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label16.Parent" xml:space="preserve">
+    <value>Move</value>
+  </data>
+  <data name="CreateEmpty.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="textBoxX_Square.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 27</value>
+  </data>
+  <data name="&gt;&gt;button3.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;textBox_outRadius.Name" xml:space="preserve">
+    <value>textBox_outRadius</value>
+  </data>
+  <data name="radioB_Ellipse_Move.Location" type="System.Drawing.Point, System.Drawing">
+    <value>161, 26</value>
+  </data>
+  <data name="&gt;&gt;textBoxY.Name" xml:space="preserve">
+    <value>textBoxY</value>
+  </data>
+  <data name="&gt;&gt;trackBar1.Name" xml:space="preserve">
+    <value>trackBar1</value>
+  </data>
+  <data name="&gt;&gt;CreateRect.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Ring.Parent" xml:space="preserve">
+    <value>Ring</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Square.Name" xml:space="preserve">
+    <value>trackBarX_Square</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="checkAll.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="ChooseList.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="radioB_Delete_Switch.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;deleteContainer.Name" xml:space="preserve">
+    <value>deleteContainer</value>
+  </data>
+  <data name="textBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Move.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;Круг.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBox_Radius.Name" xml:space="preserve">
+    <value>textBox_Radius</value>
+  </data>
+  <data name="Прямоугольник.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="&gt;&gt;canvas.Name" xml:space="preserve">
+    <value>canvas</value>
+  </data>
+  <data name="textBoxX_Square.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 166</value>
+  </data>
+  <data name="&gt;&gt;Круг.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label12.Name" xml:space="preserve">
+    <value>label12</value>
+  </data>
+  <data name="&gt;&gt;label19.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBox_ChangeHeight.Location" type="System.Drawing.Point, System.Drawing">
+    <value>540, 110</value>
+  </data>
+  <data name="&gt;&gt;label14.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBoxY_Rhomb.TabIndex" type="System.Int32, mscorlib">
+    <value>48</value>
+  </data>
+  <data name="trackBarX_Rect.Location" type="System.Drawing.Point, System.Drawing">
+    <value>58, 41</value>
+  </data>
+  <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 166</value>
+  </data>
+  <data name="trackBarX_Switch.TabIndex" type="System.Int32, mscorlib">
+    <value>44</value>
+  </data>
+  <data name="&gt;&gt;CreateRectRandomly.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBox6.TabIndex" type="System.Int32, mscorlib">
+    <value>62</value>
+  </data>
+  <data name="RadioB_Circle_Move.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 26</value>
+  </data>
+  <data name="&gt;&gt;radioB_Delete_Switch.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;Trapezoid.Name" xml:space="preserve">
+    <value>Trapezoid</value>
+  </data>
+  <data name="textBox6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 169</value>
+  </data>
+  <data name="&gt;&gt;textBox_Change.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Ellipse.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="label9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 43</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Rect_Delete.Name" xml:space="preserve">
+    <value>RadioB_Rect_Delete</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Square.Parent" xml:space="preserve">
+    <value>Квадрат</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Ellipse.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="radioB_Rhomb_Move.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;createRhombRandomly.Name" xml:space="preserve">
+    <value>createRhombRandomly</value>
+  </data>
+  <data name="radioB_Delete_Ring.Location" type="System.Drawing.Point, System.Drawing">
+    <value>167, 38</value>
+  </data>
+  <data name="&gt;&gt;textBox_ChangeWidth.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox_ChangeHeight.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;sBin.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;label9.Name" xml:space="preserve">
+    <value>label9</value>
+  </data>
+  <data name="&gt;&gt;textBoxX.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;radioB_Ellipse_Move.Name" xml:space="preserve">
+    <value>radioB_Ellipse_Move</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Square.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 20</value>
+  </data>
+  <data name="&gt;&gt;showFigs.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="textBox_TrapezHeight.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 261</value>
+  </data>
+  <data name="&gt;&gt;radioB_Ellipse_Move.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="MoveFigs.Location" type="System.Drawing.Point, System.Drawing">
+    <value>22, 171</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Ellipse.Name" xml:space="preserve">
+    <value>textBoxY_Ellipse</value>
+  </data>
+  <data name="textBoxX_Switch.TabIndex" type="System.Int32, mscorlib">
+    <value>45</value>
+  </data>
+  <data name="&gt;&gt;trackBarY.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="ChooseArray.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;label25.Parent" xml:space="preserve">
+    <value>Ellipse</value>
+  </data>
+  <data name="&gt;&gt;textBox_DeleteItem.Parent" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="label22.TabIndex" type="System.Int32, mscorlib">
+    <value>43</value>
+  </data>
+  <data name="textBox_Item_Move.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 27</value>
+  </data>
+  <data name="&gt;&gt;createRingRandomly.Name" xml:space="preserve">
+    <value>createRingRandomly</value>
+  </data>
+  <data name="CreateSquareRandomly.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="&gt;&gt;Ellipse.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="List.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="textBox_Item_Move.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;createRhombRandomly.Parent" xml:space="preserve">
+    <value>Rhomb</value>
+  </data>
+  <data name="&gt;&gt;Квадрат.Parent" xml:space="preserve">
+    <value>Create</value>
+  </data>
+  <data name="&gt;&gt;trackBarX.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioB_Rhomb_Move.Name" xml:space="preserve">
+    <value>radioB_Rhomb_Move</value>
+  </data>
+  <data name="&gt;&gt;trackBar4.Parent" xml:space="preserve">
+    <value>Trapezoid</value>
+  </data>
+  <data name="&gt;&gt;button3.Name" xml:space="preserve">
+    <value>button3</value>
+  </data>
+  <data name="trackBarY_Circle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 56</value>
+  </data>
+  <data name="&gt;&gt;panel3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label12.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Circle_Delete.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RadioB_Square_Delete.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;textBox_SwitchOutRad.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 269</value>
+  </data>
+  <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;label28.Parent" xml:space="preserve">
+    <value>Rhomb</value>
+  </data>
+  <data name="&gt;&gt;label18.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Switch.Parent" xml:space="preserve">
+    <value>Switch</value>
+  </data>
+  <data name="&gt;&gt;Change_Rect.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;createList.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="label35.TabIndex" type="System.Int32, mscorlib">
+    <value>69</value>
+  </data>
+  <data name="textBox_Radius.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 27</value>
+  </data>
+  <data name="&gt;&gt;createRhombRandomly.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>800, 450</value>
+  </data>
+  <data name="checkBox_Rhomb.Location" type="System.Drawing.Point, System.Drawing">
+    <value>213, 94</value>
+  </data>
+  <data name="&gt;&gt;CreateSwitchRandomly.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;textBox8.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="&gt;&gt;Move.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textBoxY_Rhomb.Location" type="System.Drawing.Point, System.Drawing">
+    <value>247, 107</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Switch.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="textBoxY_Square.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;label30.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioB_Delete_Ring.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="radioB_Move_Ring.Location" type="System.Drawing.Point, System.Drawing">
+    <value>167, 38</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Trapez.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="textBoxX_Ellipse.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Rect_Delete.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;radioB_Trapez_Move.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBox4.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;radioB_Delete_Ring.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Ellipse.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label20.Parent" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Switch.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label18.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="&gt;&gt;Ring.Name" xml:space="preserve">
+    <value>Ring</value>
+  </data>
+  <data name="&gt;&gt;MoveItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="trackBar1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>57, 90</value>
+  </data>
+  <data name="label14.Location" type="System.Drawing.Point, System.Drawing">
+    <value>657, 56</value>
+  </data>
+  <data name="&gt;&gt;label5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkBox_Square.Name" xml:space="preserve">
+    <value>checkBox_Square</value>
+  </data>
+  <data name="label11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 104</value>
+  </data>
+  <data name="radioB_Rhomb_Move.Location" type="System.Drawing.Point, System.Drawing">
+    <value>161, 56</value>
+  </data>
+  <data name="&gt;&gt;eraseFigs.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="label23.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 166</value>
+  </data>
+  <data name="&gt;&gt;textBox_vertRad.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="Delete.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="&gt;&gt;createEllipse.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;deleteContainer.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBox_Side.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 27</value>
+  </data>
+  <data name="&gt;&gt;CreateRect.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Name" xml:space="preserve">
+    <value>textBox2</value>
+  </data>
+  <data name="label24.TabIndex" type="System.Int32, mscorlib">
+    <value>37</value>
+  </data>
+  <data name="&gt;&gt;createEllipseRandomly.Name" xml:space="preserve">
+    <value>createEllipseRandomly</value>
+  </data>
+  <data name="&gt;&gt;Trapezoid.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;showFigs.Name" xml:space="preserve">
+    <value>showFigs</value>
+  </data>
+  <data name="ChooseList.Location" type="System.Drawing.Point, System.Drawing">
+    <value>187, 319</value>
+  </data>
+  <data name="eraseFigs.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Move.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;panel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox_inRadius.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Ring.Name" xml:space="preserve">
+    <value>trackBarY_Ring</value>
+  </data>
+  <data name="&gt;&gt;label7.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Trapez.Parent" xml:space="preserve">
+    <value>Trapezoid</value>
+  </data>
+  <data name="trackBarY_Circle.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;List.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="DeleteItem.Location" type="System.Drawing.Point, System.Drawing">
+    <value>803, 54</value>
+  </data>
+  <data name="textBoxY_Circle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>246, 104</value>
+  </data>
+  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="&gt;&gt;checkBox_Trap.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Move.Name" xml:space="preserve">
+    <value>Move</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Ellipse.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="trackBarX_Square.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="Move.Size" type="System.Drawing.Size, System.Drawing">
+    <value>192, 67</value>
+  </data>
+  <data name="&gt;&gt;ChooseArray.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBoxY_Ellipse.Location" type="System.Drawing.Point, System.Drawing">
+    <value>247, 107</value>
+  </data>
+  <data name="&gt;&gt;label13.Parent" xml:space="preserve">
+    <value>Прямоугольник</value>
+  </data>
+  <data name="&gt;&gt;radioB_Move_Switch.Parent" xml:space="preserve">
+    <value>groupOfRBs</value>
+  </data>
+  <data name="&gt;&gt;checkBox_Ellipse.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="textBoxY_Switch.TabIndex" type="System.Int32, mscorlib">
+    <value>48</value>
+  </data>
+  <data name="&gt;&gt;button4.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="textBox_DeleteItem.Location" type="System.Drawing.Point, System.Drawing">
+    <value>616, 67</value>
+  </data>
+  <data name="label10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="&gt;&gt;label26.Name" xml:space="preserve">
+    <value>label26</value>
+  </data>
+  <data name="CreateSwitch.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 274</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Rhomb.Name" xml:space="preserve">
+    <value>trackBarX_Rhomb</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Rect.Parent" xml:space="preserve">
+    <value>Прямоугольник</value>
+  </data>
+  <data name="&gt;&gt;label34.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label28.TabIndex" type="System.Int32, mscorlib">
+    <value>49</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Trapez.Name" xml:space="preserve">
+    <value>textBoxY_Trapez</value>
+  </data>
+  <data name="radioB_Rhomb_Delete.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="button2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="textBoxY_Circle.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;tabControl1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;deleteList.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Круг.Size" type="System.Drawing.Size, System.Drawing">
+    <value>192, 67</value>
+  </data>
+  <data name="&gt;&gt;textBox7.Name" xml:space="preserve">
+    <value>textBox7</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Circle_Move.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;textBox_horRad.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CreateSquareRandomly.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="DeleteItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="trackBarY_Ellipse.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="tabPage1.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="trackBarX.TabIndex" type="System.Int32, mscorlib">
+    <value>31</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Switch.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Ellipse.Parent" xml:space="preserve">
+    <value>Ellipse</value>
+  </data>
+  <data name="&gt;&gt;Sbin.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;createRing.Parent" xml:space="preserve">
+    <value>Ring</value>
+  </data>
+  <data name="&gt;&gt;textBox_RhombsWidth.Name" xml:space="preserve">
+    <value>textBox_RhombsWidth</value>
+  </data>
+  <data name="&gt;&gt;label32.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="groupOfRBs.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 100</value>
+  </data>
+  <data name="&gt;&gt;createTrapez.Name" xml:space="preserve">
+    <value>createTrapez</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Switch.Parent" xml:space="preserve">
+    <value>Switch</value>
+  </data>
+  <data name="&gt;&gt;label32.Name" xml:space="preserve">
+    <value>label32</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Ring.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="textBox_Side.Location" type="System.Drawing.Point, System.Drawing">
+    <value>158, 166</value>
+  </data>
+  <data name="&gt;&gt;Delete.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="createTrapezRandomly.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 424</value>
+  </data>
+  <data name="textBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>182, 224</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Circle.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="button2.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="textBox_Width.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 27</value>
+  </data>
+  <data name="&gt;&gt;AddOne.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;Sbin.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;deleteList.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;label8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="trackBarX_Square.Location" type="System.Drawing.Point, System.Drawing">
+    <value>58, 41</value>
+  </data>
+  <data name="&gt;&gt;trackBar4.Name" xml:space="preserve">
+    <value>trackBar4</value>
+  </data>
+  <data name="label25.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="&gt;&gt;trackBar3.Name" xml:space="preserve">
+    <value>trackBar3</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Square.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBox_Height.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 27</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="tabControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 100</value>
+  </data>
+  <data name="&gt;&gt;createRhombRandomly.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Circle.Name" xml:space="preserve">
+    <value>trackBarX_Circle</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Square_Move.Parent" xml:space="preserve">
+    <value>groupOfRBs</value>
+  </data>
+  <data name="&gt;&gt;button7.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Rect_Move.Name" xml:space="preserve">
+    <value>RadioB_Rect_Move</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Name" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;canvas.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label6.Name" xml:space="preserve">
+    <value>label6</value>
+  </data>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1165, 58</value>
+  </data>
+  <data name="&gt;&gt;label22.Name" xml:space="preserve">
+    <value>label22</value>
+  </data>
+  <data name="&gt;&gt;checkBox_Ellipse.Name" xml:space="preserve">
+    <value>checkBox_Ellipse</value>
+  </data>
+  <data name="Create.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1142, 58</value>
+  </data>
+  <data name="&gt;&gt;createRing.Name" xml:space="preserve">
+    <value>createRing</value>
+  </data>
+  <data name="&gt;&gt;label35.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Rect_Delete.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;Прямоугольник.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox_Radius.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label32.Parent" xml:space="preserve">
+    <value>Trapezoid</value>
+  </data>
+  <data name="&gt;&gt;CreateEmpty.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="label27.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 224</value>
+  </data>
+  <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 421</value>
+  </data>
+  <data name="RadioB_Rect_Delete.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 86</value>
+  </data>
+  <data name="&gt;&gt;turnEllipse90.Parent" xml:space="preserve">
+    <value>tabControl1</value>
+  </data>
+  <data name="&gt;&gt;label5.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;textBox5.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;Прямоугольник.Parent" xml:space="preserve">
+    <value>Create</value>
+  </data>
+  <data name="ChangeRect.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="trackBarY_Rect.Location" type="System.Drawing.Point, System.Drawing">
+    <value>58, 104</value>
+  </data>
+  <data name="textBox_Width.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="&gt;&gt;label25.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Ring.Name" xml:space="preserve">
+    <value>textBoxY_Ring</value>
+  </data>
+  <data name="&gt;&gt;textBox_SwitchRad.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CreateRect.Parent" xml:space="preserve">
+    <value>Прямоугольник</value>
+  </data>
+  <data name="&gt;&gt;checkBox_Ellipse.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label11.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Square_Move.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;textBox_Side.Parent" xml:space="preserve">
+    <value>Квадрат</value>
+  </data>
+  <data name="&gt;&gt;Move.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="checkBox_Ellipse.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="trackBarX_Rect.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 56</value>
+  </data>
+  <data name="trackBar2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>57, 27</value>
+  </data>
+  <data name="&gt;&gt;label34.Name" xml:space="preserve">
+    <value>label34</value>
+  </data>
+  <data name="&gt;&gt;textBoxY.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;sBin.Name" xml:space="preserve">
+    <value>sBin</value>
+  </data>
+  <data name="&gt;&gt;textBox4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxX.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;textBox1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label21.Name" xml:space="preserve">
+    <value>label21</value>
+  </data>
+  <data name="textBox_RhombsWidth.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 169</value>
+  </data>
+  <data name="&gt;&gt;label23.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Create20.Name" xml:space="preserve">
+    <value>Create20</value>
+  </data>
+  <data name="textBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>157, 152</value>
+  </data>
+  <data name="&gt;&gt;label31.Parent" xml:space="preserve">
+    <value>Trapezoid</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Rhomb.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;textBox_TrapezHeight.Name" xml:space="preserve">
+    <value>textBox_TrapezHeight</value>
+  </data>
+  <data name="textBoxX_Move.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label18.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="&gt;&gt;label21.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioB_Rhomb_Delete.Name" xml:space="preserve">
+    <value>radioB_Rhomb_Delete</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>22, 71</value>
+  </data>
+  <data name="&gt;&gt;label27.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 104</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Rhomb.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="trackBarY_Ring.Location" type="System.Drawing.Point, System.Drawing">
+    <value>58, 104</value>
+  </data>
+  <data name="&gt;&gt;textBox_Side.Name" xml:space="preserve">
+    <value>textBox_Side</value>
+  </data>
+  <data name="label10.TabIndex" type="System.Int32, mscorlib">
+    <value>27</value>
+  </data>
+  <data name="&gt;&gt;label8.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Square.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;label15.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label17.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label15.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="Move.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;CreateSquareRandomly.Parent" xml:space="preserve">
+    <value>Квадрат</value>
+  </data>
+  <data name="trackBarX_Ring.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="&gt;&gt;label22.Parent" xml:space="preserve">
+    <value>Ellipse</value>
+  </data>
+  <data name="&gt;&gt;label5.Name" xml:space="preserve">
+    <value>label5</value>
+  </data>
+  <data name="RadioB_Rect_Move.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 86</value>
+  </data>
+  <data name="textBox_ChangeHeight.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 27</value>
+  </data>
+  <data name="groupBox3.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;Move.Parent" xml:space="preserve">
+    <value>tabControl1</value>
+  </data>
+  <data name="&gt;&gt;label31.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="MoveFigs.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="checkBox_CIrcle.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Circle_Move.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Change_Rect.Parent" xml:space="preserve">
+    <value>tabControl1</value>
+  </data>
+  <data name="&gt;&gt;checkBox_Square.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;createRhomb.Parent" xml:space="preserve">
+    <value>Rhomb</value>
+  </data>
+  <data name="Delete.Size" type="System.Drawing.Size, System.Drawing">
+    <value>192, 67</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Ring.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="trackBar4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>59, 44</value>
+  </data>
+  <data name="deleteList.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="createRingRandomly.TabIndex" type="System.Int32, mscorlib">
+    <value>41</value>
+  </data>
+  <data name="&gt;&gt;label11.Parent" xml:space="preserve">
+    <value>Прямоугольник</value>
+  </data>
+  <data name="&gt;&gt;textBoxX.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="trackBarY.Location" type="System.Drawing.Point, System.Drawing">
+    <value>54, 127</value>
+  </data>
+  <data name="&gt;&gt;ChooseArray.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;label29.Parent" xml:space="preserve">
+    <value>Rhomb</value>
+  </data>
+  <data name="&gt;&gt;createList.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ChooseList.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox_UpLen.Name" xml:space="preserve">
+    <value>textBox_UpLen</value>
+  </data>
+  <data name="&gt;&gt;CreateEmpty.Name" xml:space="preserve">
+    <value>CreateEmpty</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Parent" xml:space="preserve">
+    <value>Rhomb</value>
+  </data>
+  <data name="radioB_Move_Ring.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;checkAll.Name" xml:space="preserve">
+    <value>checkAll</value>
+  </data>
+  <data name="&gt;&gt;label24.Parent" xml:space="preserve">
+    <value>Ellipse</value>
+  </data>
+  <data name="&gt;&gt;textBox_SwitchInRad.Name" xml:space="preserve">
+    <value>textBox_SwitchInRad</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Rhomb.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;Change_Rect.Name" xml:space="preserve">
+    <value>Change_Rect</value>
+  </data>
+  <data name="&gt;&gt;sBin.Parent" xml:space="preserve">
+    <value>turnEllipse90</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Rhomb.Name" xml:space="preserve">
+    <value>trackBarY_Rhomb</value>
+  </data>
+  <data name="label21.Location" type="System.Drawing.Point, System.Drawing">
+    <value>459, 67</value>
+  </data>
+  <data name="radioB_Ellipse_Delete.Location" type="System.Drawing.Point, System.Drawing">
+    <value>161, 26</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Rhomb.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Change_Rect.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;textBox_DownLen.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;CreateSwitch.Parent" xml:space="preserve">
+    <value>Switch</value>
+  </data>
+  <data name="&gt;&gt;textBox_SwitchOutRad.Parent" xml:space="preserve">
+    <value>Switch</value>
+  </data>
+  <data name="&gt;&gt;Круг.Name" xml:space="preserve">
+    <value>Круг</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Trapez.Parent" xml:space="preserve">
+    <value>Trapezoid</value>
+  </data>
+  <data name="RadioB_Rect_Delete.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;createList.Name" xml:space="preserve">
+    <value>createList</value>
+  </data>
+  <data name="&gt;&gt;textBox_outRadius.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label26.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 191</value>
+  </data>
+  <data name="button7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>192, 448</value>
+  </data>
+  <data name="&gt;&gt;groupOfRBs.Parent" xml:space="preserve">
+    <value>Move</value>
+  </data>
+  <data name="&gt;&gt;trackBar2.Parent" xml:space="preserve">
+    <value>Rhomb</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Switch.Parent" xml:space="preserve">
+    <value>Switch</value>
+  </data>
+  <data name="&gt;&gt;tabControl1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Square.Parent" xml:space="preserve">
+    <value>Квадрат</value>
+  </data>
+  <data name="&gt;&gt;textBox_ChangeHeight.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Rhomb.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioB_Rhomb_Delete.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;label11.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Ring.Parent" xml:space="preserve">
+    <value>Ring</value>
+  </data>
+  <data name="trackBarY_Rhomb.Location" type="System.Drawing.Point, System.Drawing">
+    <value>59, 107</value>
+  </data>
+  <data name="moveInNewBase.TabIndex" type="System.Int32, mscorlib">
+    <value>30</value>
+  </data>
+  <data name="textBoxX.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="&gt;&gt;List.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textBox_RhombsHeight.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 215</value>
+  </data>
+  <data name="textBox_RhombsWidth.TabIndex" type="System.Int32, mscorlib">
+    <value>50</value>
+  </data>
+  <data name="textBoxY_Rect.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="label29.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 43</value>
+  </data>
+  <data name="&gt;&gt;textBox5.Name" xml:space="preserve">
+    <value>textBox5</value>
+  </data>
+  <data name="radioB_Trapez_Move.Location" type="System.Drawing.Point, System.Drawing">
+    <value>161, 86</value>
+  </data>
+  <data name="&gt;&gt;textBox8.Name" xml:space="preserve">
+    <value>textBox8</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Ellipse.Parent" xml:space="preserve">
+    <value>Ellipse</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Square.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label31.TabIndex" type="System.Int32, mscorlib">
+    <value>67</value>
+  </data>
+  <data name="&gt;&gt;createTrapezRandomly.Parent" xml:space="preserve">
+    <value>Trapezoid</value>
+  </data>
+  <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="checkBox_Square.Location" type="System.Drawing.Point, System.Drawing">
+    <value>44, 93</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Rect.Name" xml:space="preserve">
+    <value>trackBarY_Rect</value>
+  </data>
+  <data name="&gt;&gt;label26.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label22.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Create.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label11.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;label13.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Circle.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;radioB_Trapez_Delete.Name" xml:space="preserve">
+    <value>radioB_Trapez_Delete</value>
+  </data>
+  <data name="&gt;&gt;radioB_Ellipse_Delete.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="textBoxX_Trapez.Location" type="System.Drawing.Point, System.Drawing">
+    <value>247, 44</value>
+  </data>
+  <data name="trackBarY_Rhomb.TabIndex" type="System.Int32, mscorlib">
+    <value>47</value>
+  </data>
+  <data name="&gt;&gt;textBox5.Parent" xml:space="preserve">
+    <value>Trapezoid</value>
+  </data>
+  <data name="MoveItem.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;button2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;createTrapez.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox_Width.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox_inRadius.Name" xml:space="preserve">
+    <value>textBox_inRadius</value>
+  </data>
+  <data name="trackBarX_Trapez.Location" type="System.Drawing.Point, System.Drawing">
+    <value>59, 44</value>
+  </data>
+  <data name="&gt;&gt;eraseFigs.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;ChooseArray.Name" xml:space="preserve">
+    <value>ChooseArray</value>
+  </data>
+  <data name="tabPage1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="button3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 421</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Rect_Move.Parent" xml:space="preserve">
+    <value>groupOfRBs</value>
+  </data>
+  <data name="&gt;&gt;label6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox_ChangeHeight.Name" xml:space="preserve">
+    <value>textBox_ChangeHeight</value>
+  </data>
+  <data name="&gt;&gt;Create20.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textBox_Radius.Location" type="System.Drawing.Point, System.Drawing">
+    <value>158, 166</value>
+  </data>
+  <data name="trackBarX_Ellipse.Location" type="System.Drawing.Point, System.Drawing">
+    <value>59, 44</value>
+  </data>
+  <data name="&gt;&gt;createRhomb.Name" xml:space="preserve">
+    <value>createRhomb</value>
+  </data>
+  <data name="label17.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 59</value>
+  </data>
+  <data name="ChooseArray.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 319</value>
+  </data>
+  <data name="&gt;&gt;trackBar3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxY.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Square.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label12.Parent" xml:space="preserve">
+    <value>Прямоугольник</value>
+  </data>
+  <data name="textBoxX_Rect.Location" type="System.Drawing.Point, System.Drawing">
+    <value>246, 41</value>
+  </data>
+  <data name="Квадрат.Size" type="System.Drawing.Size, System.Drawing">
+    <value>192, 67</value>
+  </data>
+  <data name="textBoxY_Square.Location" type="System.Drawing.Point, System.Drawing">
+    <value>246, 104</value>
+  </data>
+  <data name="&gt;&gt;trackBarX.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="eraseFigs.Location" type="System.Drawing.Point, System.Drawing">
+    <value>187, 519</value>
+  </data>
+  <data name="&gt;&gt;radioB_Move_Ring.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;textBox5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Rect.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;Switch.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;listOfFigures.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="textBoxX_Ring.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="checkAll.Location" type="System.Drawing.Point, System.Drawing">
+    <value>119, 191</value>
+  </data>
+  <data name="&gt;&gt;radioB_Ellipse_Move.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="groupBox3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>581, 16</value>
+  </data>
+  <data name="&gt;&gt;groupOfRBs.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;label18.Name" xml:space="preserve">
+    <value>label18</value>
+  </data>
+  <data name="&gt;&gt;button6.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="RadioB_Circle_Move.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="createEllipse.TabIndex" type="System.Int32, mscorlib">
+    <value>40</value>
+  </data>
+  <data name="textBox_Change.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 27</value>
+  </data>
+  <data name="&gt;&gt;textBox_ChangeWidth.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="trackBarX_Square.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 56</value>
+  </data>
+  <data name="panel3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1111, 697</value>
+  </data>
+  <data name="&gt;&gt;label4.Name" xml:space="preserve">
+    <value>label4</value>
+  </data>
+  <data name="button6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 277</value>
+  </data>
+  <data name="&gt;&gt;label10.Name" xml:space="preserve">
+    <value>label10</value>
+  </data>
+  <data name="&gt;&gt;CreateSquareRandomly.Name" xml:space="preserve">
+    <value>CreateSquareRandomly</value>
+  </data>
+  <data name="checkBox_Trap.Location" type="System.Drawing.Point, System.Drawing">
+    <value>213, 143</value>
+  </data>
+  <data name="deleteContainer.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;label15.Name" xml:space="preserve">
+    <value>label15</value>
+  </data>
+  <data name="&gt;&gt;label27.Name" xml:space="preserve">
+    <value>label27</value>
+  </data>
+  <data name="RadioB_Square_Delete.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 56</value>
+  </data>
+  <data name="createTrapezRandomly.TabIndex" type="System.Int32, mscorlib">
+    <value>65</value>
+  </data>
+  <data name="&gt;&gt;label34.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="radioB_Rhomb_Delete.Location" type="System.Drawing.Point, System.Drawing">
+    <value>161, 56</value>
+  </data>
+  <data name="tabControl1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;sBin.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Прямоугольник.Size" type="System.Drawing.Size, System.Drawing">
+    <value>192, 67</value>
+  </data>
+  <data name="textBoxX_Rhomb.TabIndex" type="System.Int32, mscorlib">
+    <value>45</value>
+  </data>
+  <data name="checkBox_Rect.Location" type="System.Drawing.Point, System.Drawing">
+    <value>44, 143</value>
+  </data>
+  <data name="button7.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;deleteContainer.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;Ellipse.Name" xml:space="preserve">
+    <value>Ellipse</value>
+  </data>
+  <data name="&gt;&gt;label33.Name" xml:space="preserve">
+    <value>label33</value>
+  </data>
+  <data name="Trapezoid.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="sBin.Location" type="System.Drawing.Point, System.Drawing">
+    <value>610, 60</value>
+  </data>
+  <data name="&gt;&gt;trackBarY.Name" xml:space="preserve">
+    <value>trackBarY</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Trapez.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label33.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 107</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Ellipse.Parent" xml:space="preserve">
+    <value>Ellipse</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Rhomb.Name" xml:space="preserve">
+    <value>textBoxY_Rhomb</value>
+  </data>
+  <data name="label17.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="textBox_DeleteItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 27</value>
+  </data>
+  <data name="textBox5.TabIndex" type="System.Int32, mscorlib">
+    <value>66</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Ring.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox_Item_Move.Name" xml:space="preserve">
+    <value>textBox_Item_Move</value>
+  </data>
+  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="&gt;&gt;moveInNewBase.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;label25.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Rect_Move.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Circle.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Круг.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="&gt;&gt;createEllipseRandomly.Parent" xml:space="preserve">
+    <value>Ellipse</value>
+  </data>
+  <data name="&gt;&gt;label12.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="label34.TabIndex" type="System.Int32, mscorlib">
+    <value>58</value>
+  </data>
+  <data name="&gt;&gt;turnEllipse90.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="Rhomb.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;label6.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;label9.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="textBoxX_Move.Location" type="System.Drawing.Point, System.Drawing">
+    <value>688, 53</value>
+  </data>
+  <data name="&gt;&gt;MoveFigs.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label23.Name" xml:space="preserve">
+    <value>label23</value>
+  </data>
+  <data name="label13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 232</value>
+  </data>
+  <data name="&gt;&gt;textBox_UpLen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="panel3.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="textBox_SwitchOutRad.TabIndex" type="System.Int32, mscorlib">
+    <value>56</value>
+  </data>
+  <data name="&gt;&gt;label26.Parent" xml:space="preserve">
+    <value>turnEllipse90</value>
+  </data>
+  <data name="label13.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Trapez.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Rhomb.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;Rhomb.Parent" xml:space="preserve">
+    <value>Create</value>
+  </data>
+  <data name="&gt;&gt;button5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox_horRad.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="textBox_ChangeWidth.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 27</value>
+  </data>
+  <data name="&gt;&gt;createRingRandomly.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;trackBar4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Delete.Parent" xml:space="preserve">
+    <value>tabControl1</value>
+  </data>
+  <data name="&gt;&gt;checkBox_CIrcle.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;label16.Name" xml:space="preserve">
+    <value>label16</value>
+  </data>
+  <data name="&gt;&gt;label24.Name" xml:space="preserve">
+    <value>label24</value>
+  </data>
+  <data name="&gt;&gt;textBox_inRadius.Parent" xml:space="preserve">
+    <value>Ring</value>
+  </data>
+  <data name="&gt;&gt;radioB_Delete_Ring.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;Trapezoid.Parent" xml:space="preserve">
+    <value>Create</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Trapez.Name" xml:space="preserve">
+    <value>trackBarY_Trapez</value>
+  </data>
+  <data name="&gt;&gt;textBox_Side.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioB_Delete_Switch.Name" xml:space="preserve">
+    <value>radioB_Delete_Switch</value>
+  </data>
+  <data name="createEllipse.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 277</value>
+  </data>
+  <data name="&gt;&gt;canvas.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="RadioB_Rect_Move.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 24</value>
+  </data>
+  <data name="trackBarY_Square.Location" type="System.Drawing.Point, System.Drawing">
+    <value>58, 104</value>
+  </data>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="createTrapez.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 330</value>
+  </data>
+  <data name="&gt;&gt;DeleteItem.Name" xml:space="preserve">
+    <value>DeleteItem</value>
+  </data>
+  <data name="&gt;&gt;radioB_Move_Switch.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;DeleteItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label10.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkBox_CIrcle.Name" xml:space="preserve">
+    <value>checkBox_CIrcle</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Move.Name" xml:space="preserve">
+    <value>textBoxX_Move</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Switch.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MoveItem.Name" xml:space="preserve">
+    <value>MoveItem</value>
+  </data>
+  <data name="&gt;&gt;panel2.Name" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;Квадрат.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;radioB_Rhomb_Delete.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Square_Delete.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Create.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;deleteContainer.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Ellipse.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MoveItem.Parent" xml:space="preserve">
+    <value>Move</value>
+  </data>
+  <data name="&gt;&gt;createTrapezRandomly.Name" xml:space="preserve">
+    <value>createTrapezRandomly</value>
+  </data>
+  <data name="&gt;&gt;textBox_Height.Name" xml:space="preserve">
+    <value>textBox_Height</value>
+  </data>
+  <data name="&gt;&gt;textBox_vertRad.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;createEllipse.Name" xml:space="preserve">
+    <value>createEllipse</value>
+  </data>
+  <data name="&gt;&gt;trackBar1.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;createTrapezRandomly.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="label15.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="label19.Location" type="System.Drawing.Point, System.Drawing">
+    <value>459, 113</value>
+  </data>
+  <data name="CreateEmpty.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 464</value>
+  </data>
+  <data name="&gt;&gt;label9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;listOfFigures.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CreateSquareRandomly.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label11.Name" xml:space="preserve">
+    <value>label11</value>
+  </data>
+  <data name="RadioB_Square_Move.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;checkBox_Rhomb.Name" xml:space="preserve">
+    <value>checkBox_Rhomb</value>
+  </data>
+  <data name="trackBarY.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="&gt;&gt;Create20.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CreateSwitchRandomly.Name" xml:space="preserve">
+    <value>CreateSwitchRandomly</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Rect.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBar1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkBox_Ellipse.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="RadioB_Square_Move.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 24</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBox_SwitchInRad.Parent" xml:space="preserve">
+    <value>Switch</value>
+  </data>
+  <data name="&gt;&gt;ChangeRect.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label7.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="textBox_vertRad.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 215</value>
+  </data>
+  <data name="&gt;&gt;moveInNewBase.Name" xml:space="preserve">
+    <value>moveInNewBase</value>
+  </data>
+  <data name="&gt;&gt;label30.Parent" xml:space="preserve">
+    <value>Rhomb</value>
+  </data>
+  <data name="&gt;&gt;button4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBox7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>247, 107</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Trapez.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 104</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>GraphicInterface</value>
+  </data>
+  <data name="&gt;&gt;Прямоугольник.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="textBoxX.Location" type="System.Drawing.Point, System.Drawing">
+    <value>242, 64</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Trapez.Name" xml:space="preserve">
+    <value>trackBarX_Trapez</value>
+  </data>
+  <data name="textBoxX_Rhomb.Location" type="System.Drawing.Point, System.Drawing">
+    <value>247, 44</value>
+  </data>
+  <data name="label27.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;deleteList.Name" xml:space="preserve">
+    <value>deleteList</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Ring.Parent" xml:space="preserve">
+    <value>Ring</value>
+  </data>
+  <data name="&gt;&gt;canvas.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;ChooseList.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;checkBox_Rhomb.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label20.Name" xml:space="preserve">
+    <value>label20</value>
+  </data>
+  <data name="&gt;&gt;button2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="radioB_Trapez_Move.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;CreateEmpty.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;Ellipse.Parent" xml:space="preserve">
+    <value>Create</value>
+  </data>
+  <data name="&gt;&gt;checkBox_CIrcle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox3.Name" xml:space="preserve">
+    <value>textBox3</value>
+  </data>
+  <data name="showFigs.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 519</value>
+  </data>
+  <data name="label13.TabIndex" type="System.Int32, mscorlib">
+    <value>31</value>
+  </data>
+  <data name="&gt;&gt;textBox_outRadius.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;CreateSquare.Name" xml:space="preserve">
+    <value>CreateSquare</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Ring.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Move.Parent" xml:space="preserve">
+    <value>Move</value>
+  </data>
+  <data name="Switch.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="textBoxX_Ring.Location" type="System.Drawing.Point, System.Drawing">
+    <value>246, 41</value>
+  </data>
+  <data name="&gt;&gt;label29.Name" xml:space="preserve">
+    <value>label29</value>
+  </data>
+  <data name="createRingRandomly.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 421</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Square_Delete.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="textBox_DownLen.TabIndex" type="System.Int32, mscorlib">
+    <value>66</value>
+  </data>
+  <data name="Trapezoid.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="&gt;&gt;radioB_Move_Switch.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Square.Name" xml:space="preserve">
+    <value>textBoxY_Square</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Circle_Move.Name" xml:space="preserve">
+    <value>RadioB_Circle_Move</value>
+  </data>
+  <data name="&gt;&gt;textBox_vertRad.Name" xml:space="preserve">
+    <value>textBox_vertRad</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Move.Parent" xml:space="preserve">
+    <value>Move</value>
+  </data>
+  <data name="CreateSwitchRandomly.TabIndex" type="System.Int32, mscorlib">
+    <value>53</value>
+  </data>
+  <data name="&gt;&gt;textBox_SwitchInRad.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Switch.Name" xml:space="preserve">
+    <value>trackBarX_Switch</value>
+  </data>
+  <data name="&gt;&gt;button4.Name" xml:space="preserve">
+    <value>button4</value>
+  </data>
+  <data name="CreateRectRandomly.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="&gt;&gt;radioB_Ellipse_Move.Parent" xml:space="preserve">
+    <value>groupOfRBs</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Circle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CreateEmpty.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Switch.Name" xml:space="preserve">
+    <value>trackBarY_Switch</value>
+  </data>
+  <data name="&gt;&gt;label16.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;createTrapez.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Circle_Delete.Name" xml:space="preserve">
+    <value>RadioB_Circle_Delete</value>
+  </data>
+  <data name="trackBarX_Rhomb.Location" type="System.Drawing.Point, System.Drawing">
+    <value>59, 44</value>
+  </data>
+  <data name="&gt;&gt;createEllipse.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Create.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label18.Location" type="System.Drawing.Point, System.Drawing">
+    <value>460, 15</value>
+  </data>
+  <data name="&gt;&gt;textBox_RhombsHeight.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBar2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Ring.Name" xml:space="preserve">
+    <value>textBoxX_Ring</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="textBox_Height.TabIndex" type="System.Int32, mscorlib">
+    <value>30</value>
+  </data>
+  <data name="&gt;&gt;DeleteItem.Parent" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="label21.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="&gt;&gt;label33.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBox_SwitchRad.Location" type="System.Drawing.Point, System.Drawing">
+    <value>170, 191</value>
+  </data>
+  <data name="trackBarY_Square.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Square.Parent" xml:space="preserve">
+    <value>Квадрат</value>
+  </data>
+  <data name="&gt;&gt;createRing.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;createRhomb.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;checkBox_Square.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Rect.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Rect.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label13.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="sBin.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;Квадрат.Name" xml:space="preserve">
+    <value>Квадрат</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Switch.Parent" xml:space="preserve">
+    <value>Switch</value>
+  </data>
+  <data name="MoveItem.Location" type="System.Drawing.Point, System.Drawing">
+    <value>803, 54</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Name" xml:space="preserve">
+    <value>textBox1</value>
+  </data>
+  <data name="textBox_SwitchOutRad.Location" type="System.Drawing.Point, System.Drawing">
+    <value>170, 212</value>
+  </data>
+  <data name="&gt;&gt;label33.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;textBox_Height.Parent" xml:space="preserve">
+    <value>Прямоугольник</value>
+  </data>
+  <data name="textBox_SwitchInRad.Location" type="System.Drawing.Point, System.Drawing">
+    <value>170, 162</value>
+  </data>
+  <data name="label9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="createRhomb.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 277</value>
+  </data>
+  <data name="&gt;&gt;textBox_DownLen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Ring.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="textBoxY_Trapez.Location" type="System.Drawing.Point, System.Drawing">
+    <value>247, 107</value>
+  </data>
+  <data name="turnEllipse90.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;List.Name" xml:space="preserve">
+    <value>List</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Circle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabControl1.Name" xml:space="preserve">
+    <value>tabControl1</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Circle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label15.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="textBox8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>247, 44</value>
+  </data>
+  <data name="&gt;&gt;label30.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;label8.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="MoveItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="textBoxX_Rect.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 27</value>
+  </data>
+  <data name="&gt;&gt;Switch.Parent" xml:space="preserve">
+    <value>Create</value>
+  </data>
+  <data name="&gt;&gt;label14.Name" xml:space="preserve">
+    <value>label14</value>
+  </data>
+  <data name="&gt;&gt;label25.Name" xml:space="preserve">
+    <value>label25</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Rect.Parent" xml:space="preserve">
+    <value>Прямоугольник</value>
+  </data>
+  <data name="&gt;&gt;label30.Name" xml:space="preserve">
+    <value>label30</value>
+  </data>
+  <data name="checkBox_Square.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;changeSides.Name" xml:space="preserve">
+    <value>changeSides</value>
+  </data>
+  <data name="textBoxX_Switch.Location" type="System.Drawing.Point, System.Drawing">
+    <value>246, 41</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="textBox_DownLen.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 215</value>
+  </data>
+  <data name="&gt;&gt;label15.Parent" xml:space="preserve">
+    <value>Move</value>
+  </data>
+  <data name="DeleteItem.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.Name" xml:space="preserve">
+    <value>tabPage1</value>
+  </data>
+  <data name="textBoxX_Circle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>246, 41</value>
+  </data>
+  <data name="&gt;&gt;textBox_UpLen.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="textBoxX_Ellipse.Location" type="System.Drawing.Point, System.Drawing">
+    <value>247, 44</value>
+  </data>
+  <data name="radioB_Move_Switch.Location" type="System.Drawing.Point, System.Drawing">
+    <value>167, 69</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label28.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;ChangeRect.Name" xml:space="preserve">
+    <value>ChangeRect</value>
+  </data>
+  <data name="&gt;&gt;label24.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="&gt;&gt;AddOne.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RadioB_Rect_Delete.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 24</value>
+  </data>
+  <data name="label11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="&gt;&gt;trackBar3.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="trackBarX_Rhomb.TabIndex" type="System.Int32, mscorlib">
+    <value>44</value>
+  </data>
+  <data name="&gt;&gt;Create.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="textBoxY_Move.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 27</value>
+  </data>
+  <data name="label8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="&gt;&gt;textBox3.Parent" xml:space="preserve">
+    <value>Rhomb</value>
+  </data>
+  <data name="&gt;&gt;groupOfRBs.Name" xml:space="preserve">
+    <value>groupOfRBs</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Rect.Name" xml:space="preserve">
+    <value>textBoxX_Rect</value>
+  </data>
+  <data name="textBox_outRadius.Location" type="System.Drawing.Point, System.Drawing">
+    <value>170, 212</value>
+  </data>
+  <data name="&gt;&gt;textBox_Radius.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="Прямоугольник.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;textBox_EllipseToSpin.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="trackBarY_Circle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>58, 104</value>
+  </data>
+  <data name="&gt;&gt;label35.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="createEllipseRandomly.TabIndex" type="System.Int32, mscorlib">
+    <value>41</value>
+  </data>
+  <data name="&gt;&gt;showFigs.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;textBox_horRad.Name" xml:space="preserve">
+    <value>textBox_horRad</value>
+  </data>
+  <data name="&gt;&gt;CreateSquareRandomly.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;turnEllipse90.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Ellipse.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="trackBarX.Location" type="System.Drawing.Point, System.Drawing">
+    <value>54, 64</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Ellipse.Name" xml:space="preserve">
+    <value>trackBarY_Ellipse</value>
+  </data>
+  <data name="&gt;&gt;Delete.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioB_Ellipse_Delete.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Square.Parent" xml:space="preserve">
+    <value>Квадрат</value>
+  </data>
+  <data name="textBox_Change.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="textBoxX_Trapez.TabIndex" type="System.Int32, mscorlib">
+    <value>57</value>
+  </data>
+  <data name="&gt;&gt;createEllipse.Parent" xml:space="preserve">
+    <value>Ellipse</value>
+  </data>
+  <data name="&gt;&gt;label31.Name" xml:space="preserve">
+    <value>label31</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Rect.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="textBox_Side.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="textBox_outRadius.TabIndex" type="System.Int32, mscorlib">
+    <value>42</value>
+  </data>
+  <data name="CreateSquare.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 214</value>
+  </data>
+  <data name="&gt;&gt;Delete.Name" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="textBoxX_Square.Location" type="System.Drawing.Point, System.Drawing">
+    <value>246, 41</value>
+  </data>
+  <data name="&gt;&gt;textBox7.Parent" xml:space="preserve">
+    <value>Trapezoid</value>
+  </data>
+  <data name="&gt;&gt;CreateSwitch.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBoxY.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Circle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Ellipse.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;checkBox_Rhomb.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;eraseFigs.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox_Width.Name" xml:space="preserve">
+    <value>textBox_Width</value>
+  </data>
+  <data name="textBoxX_Move.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 27</value>
+  </data>
+  <data name="&gt;&gt;Круг.Parent" xml:space="preserve">
+    <value>Create</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Ellipse.Name" xml:space="preserve">
+    <value>textBoxX_Ellipse</value>
+  </data>
+  <data name="CreateSwitch.TabIndex" type="System.Int32, mscorlib">
+    <value>52</value>
+  </data>
+  <data name="&gt;&gt;trackBarY.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;DeleteItem.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;radioB_Rhomb_Move.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;textBox_EllipseToSpin.Parent" xml:space="preserve">
+    <value>turnEllipse90</value>
+  </data>
+  <data name="Change_Rect.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="textBox_DeleteItem.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="groupBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>238, 16</value>
+  </data>
+  <data name="&gt;&gt;Switch.Name" xml:space="preserve">
+    <value>Switch</value>
+  </data>
+  <data name="List.Location" type="System.Drawing.Point, System.Drawing">
+    <value>43, 55</value>
+  </data>
+  <data name="&gt;&gt;textBox8.Parent" xml:space="preserve">
+    <value>Trapezoid</value>
+  </data>
+  <data name="&gt;&gt;textBox_outRadius.Parent" xml:space="preserve">
+    <value>Ring</value>
+  </data>
+  <data name="showFigs.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="createList.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 448</value>
+  </data>
+  <data name="&gt;&gt;ChooseList.Name" xml:space="preserve">
+    <value>ChooseList</value>
+  </data>
+  <data name="CreateSquareRandomly.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 421</value>
+  </data>
+  <data name="&gt;&gt;moveInNewBase.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="radioB_Delete_Switch.Location" type="System.Drawing.Point, System.Drawing">
+    <value>167, 69</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Square.Name" xml:space="preserve">
+    <value>trackBarY_Square</value>
+  </data>
+  <data name="CreateSquare.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="&gt;&gt;changeSides.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Trapez.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Move.Name" xml:space="preserve">
+    <value>textBoxY_Move</value>
+  </data>
+  <data name="Квадрат.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="groupOfRBs.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 16</value>
+  </data>
+  <data name="createList.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;Create20.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="label30.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 46</value>
+  </data>
+  <data name="&gt;&gt;label16.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Switch.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="checkBox_Rhomb.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 100</value>
+  </data>
+  <data name="Delete.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;ChangeRect.Parent" xml:space="preserve">
+    <value>Change_Rect</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;textBox_Radius.Parent" xml:space="preserve">
+    <value>Круг</value>
+  </data>
+  <data name="trackBarX_Switch.Location" type="System.Drawing.Point, System.Drawing">
+    <value>58, 41</value>
+  </data>
+  <data name="&gt;&gt;trackBar2.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;trackBarX.Name" xml:space="preserve">
+    <value>trackBarX</value>
+  </data>
+  <data name="&gt;&gt;textBox7.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;label14.Parent" xml:space="preserve">
+    <value>Move</value>
+  </data>
+  <data name="&gt;&gt;List.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="Sbin.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="Круг.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="CreateRect.TabIndex" type="System.Int32, mscorlib">
+    <value>28</value>
+  </data>
+  <data name="&gt;&gt;RadioB_Rect_Move.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Rhomb.Parent" xml:space="preserve">
+    <value>Rhomb</value>
+  </data>
+  <data name="textBox_UpLen.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 169</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Circle.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="textBox_inRadius.TabIndex" type="System.Int32, mscorlib">
+    <value>38</value>
+  </data>
+  <data name="&gt;&gt;Change_Rect.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;label17.Parent" xml:space="preserve">
+    <value>Change_Rect</value>
+  </data>
+  <data name="&gt;&gt;label28.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label26.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;trackBar3.Parent" xml:space="preserve">
+    <value>Trapezoid</value>
+  </data>
+  <data name="&gt;&gt;label27.Parent" xml:space="preserve">
+    <value>Rhomb</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Move.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox3.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="deleteList.Location" type="System.Drawing.Point, System.Drawing">
+    <value>192, 448</value>
+  </data>
+  <data name="&gt;&gt;Прямоугольник.Name" xml:space="preserve">
+    <value>Прямоугольник</value>
+  </data>
+  <data name="trackBar2.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="&gt;&gt;radioB_Delete_Switch.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="trackBarX_Circle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 56</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Switch.Name" xml:space="preserve">
+    <value>textBoxY_Switch</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;textBox_Item_Move.Parent" xml:space="preserve">
+    <value>Move</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Rect.Name" xml:space="preserve">
+    <value>textBoxY_Rect</value>
+  </data>
+  <data name="Create20.Location" type="System.Drawing.Point, System.Drawing">
+    <value>187, 464</value>
+  </data>
+  <data name="&gt;&gt;CreateSquare.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBox_Item_Move.Location" type="System.Drawing.Point, System.Drawing">
+    <value>517, 68</value>
+  </data>
+  <data name="textBox8.TabIndex" type="System.Int32, mscorlib">
+    <value>57</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="trackBarY_Trapez.TabIndex" type="System.Int32, mscorlib">
+    <value>59</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Circle.Name" xml:space="preserve">
+    <value>textBoxX_Circle</value>
+  </data>
+  <data name="trackBarY_Rect.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 56</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Circle.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;radioB_Delete_Ring.Name" xml:space="preserve">
+    <value>radioB_Delete_Ring</value>
+  </data>
+  <data name="&gt;&gt;createRing.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="button5.TabIndex" type="System.Int32, mscorlib">
+    <value>65</value>
+  </data>
+  <data name="&gt;&gt;panel2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBoxX_Rhomb.Name" xml:space="preserve">
+    <value>textBoxX_Rhomb</value>
+  </data>
+  <data name="textBox4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>245, 27</value>
+  </data>
+  <data name="trackBarY_Square.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 56</value>
+  </data>
+  <data name="label35.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 261</value>
+  </data>
+  <data name="textBoxY_Move.Location" type="System.Drawing.Point, System.Drawing">
+    <value>688, 99</value>
+  </data>
+  <data name="panel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>41, 697</value>
+  </data>
+  <data name="&gt;&gt;radioB_Delete_Switch.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label29.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="textBoxY_Switch.Location" type="System.Drawing.Point, System.Drawing">
+    <value>246, 104</value>
+  </data>
+  <data name="&gt;&gt;textBox_ChangeWidth.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;textBox_DownLen.Name" xml:space="preserve">
+    <value>textBox_DownLen</value>
+  </data>
+  <data name="&gt;&gt;trackBarY_Ring.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="canvas.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 50</value>
+  </data>
+  <data name="textBox4.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="label26.TabIndex" type="System.Int32, mscorlib">
+    <value>55</value>
+  </data>
+  <data name="label19.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="&gt;&gt;button2.Name" xml:space="preserve">
+    <value>button2</value>
+  </data>
+  <data name="&gt;&gt;createEllipseRandomly.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;panel3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Ring.Name" xml:space="preserve">
+    <value>trackBarX_Ring</value>
+  </data>
+  <data name="&gt;&gt;CreateSquare.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;textBoxX.Name" xml:space="preserve">
+    <value>textBoxX</value>
+  </data>
+  <data name="label28.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 104</value>
+  </data>
+  <data name="textBox_SwitchRad.TabIndex" type="System.Int32, mscorlib">
+    <value>54</value>
+  </data>
+  <data name="&gt;&gt;listOfFigures.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;button2.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;textBox2.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="turnEllipse90.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 29</value>
+  </data>
+  <data name="&gt;&gt;checkAll.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Ring.Parent" xml:space="preserve">
+    <value>Ring</value>
+  </data>
+  <data name="&gt;&gt;createEllipseRandomly.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;showFigs.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;textBox_SwitchOutRad.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="button4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 274</value>
+  </data>
+  <data name="label6.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;checkBox_Trap.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;label23.Parent" xml:space="preserve">
+    <value>Ellipse</value>
+  </data>
+  <data name="label20.Location" type="System.Drawing.Point, System.Drawing">
+    <value>344, 54</value>
+  </data>
+  <data name="panel2.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Rhomb.Parent" xml:space="preserve">
+    <value>Rhomb</value>
+  </data>
+  <data name="&gt;&gt;label17.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Rect.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox_RhombsHeight.Parent" xml:space="preserve">
+    <value>Rhomb</value>
+  </data>
+  <data name="trackBarX_Trapez.TabIndex" type="System.Int32, mscorlib">
+    <value>56</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Trapez.Parent" xml:space="preserve">
+    <value>Trapezoid</value>
+  </data>
+  <data name="label21.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="&gt;&gt;textBox_SwitchRad.Parent" xml:space="preserve">
+    <value>Switch</value>
+  </data>
+  <data name="&gt;&gt;button4.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="CreateRectRandomly.TabIndex" type="System.Int32, mscorlib">
+    <value>29</value>
+  </data>
+  <data name="checkBox_Trap.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="textBox_horRad.TabIndex" type="System.Int32, mscorlib">
+    <value>38</value>
+  </data>
+  <data name="&gt;&gt;button7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox_Width.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;trackBarX_Rhomb.Parent" xml:space="preserve">
+    <value>Rhomb</value>
+  </data>
+  <data name="&gt;&gt;textBoxY_Trapez.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>ru</value>
+  </metadata>
+  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+</root>
